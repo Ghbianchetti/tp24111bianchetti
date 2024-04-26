@@ -16,7 +16,7 @@ body{
 
 .header{
     min-height: 100vh;
-    background-image: url("/img/bg2.jpg");
+    background-image: url("/IMG/bg2.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
